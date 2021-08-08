@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently pursuing B.Tech from IEM, Kolkata
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My Linkedin profile link-https://www.linkedin.com/in/parijat-priyadarshi-658a02200
 
 <!---
 Parijat024/Parijat024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
